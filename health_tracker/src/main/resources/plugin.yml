@@ -1,0 +1,6 @@
+main: dev.sharlot.health_tracker.App
+author: sharlot
+name: health_tracker
+version: 1.0
+description: Tracks health to a scoreboard
+api-version: '1.20'
